@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-astrotomic-colors",
+  "version": "1.0.0",
+  "description": "Adds the Astrotomic colours to Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrotomic/tailwind-astrotomic-colors.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "colors"
+  ],
+  "author": "Astrotomic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Astrotomic/tailwind-astrotomic-colors/issues"
+  },
+  "homepage": "https://github.com/Astrotomic/tailwind-astrotomic-colors#readme"
+}
