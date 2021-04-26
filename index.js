@@ -5,12 +5,12 @@ module.exports = require("tailwindcss/plugin")(
         theme: {
             extend: {
                 colors: {
-                    "astrotomic": "#7E59C5",
-                    "moonlight": "#001543",
-                    "night": "#001425",
-                    "mit": "#5461C8",
-                    "treeware": "#318D3A",
-                    "larabelles": "#F09491",
+                    "astro-astrotomic": "#7E59C5",
+                    "astro-moonlight": "#001543",
+                    "astro-night": "#001425",
+                    "astro-mit": "#5461C8",
+                    "astro-treeware": "#318D3A",
+                    "astro-larabelles": "#F09491",
                 },
             }
         }
